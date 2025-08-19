@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/persons
+POST https://phonebookrender-part3.onrender.com/api/persons
 Content-Type: application/json
 
 {
-    "name":"sachin",
-    "number":"123-"
+    "name":"sachin-kumar",
+    "number":"123-5"
 }
